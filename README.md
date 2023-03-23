@@ -1,7 +1,8 @@
 # bandit-manchot
 
 ou Machine à sous
-Objectif : Créer un jeu de machine à sous, générant à chaque tout un tirage de 3 symboles
+
+**Objectif** : Créer un jeu de machine à sous, générant à chaque tout un tirage de 3 symboles
 aléatoires parmi un ensemble de symboles pré -établi.
 
 1. Préparation de fonctions
