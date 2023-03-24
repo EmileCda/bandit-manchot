@@ -33,7 +33,7 @@ aléatoires parmi un ensemble de symboles pré -établi.
 
 1. Cloner le repository
 2. compiler le programme : `javac Main.java`
-3. lacer le programme : `java Main`
+3. lancer le programme : `java Main`
 
 # Ce programme a été créé avec les versions de java suivantes
 
