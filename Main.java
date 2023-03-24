@@ -109,7 +109,7 @@ public class Main {
             String reponse = myScan.nextLine();  
 // choix possible : 1 = enter => chaine vide , 2 string de fin, 3 autres string (on ne joue pas)
             // taper entrer (reponse vide) choix 1
-            if (reponse.length() ==0){                          
+            if (reponse.length() ==0){                    
                 char[] tableauTirage = tirage(tabSymbole) ;
                 afficherTirage(tableauTirage);
                 int nbOccurence = calculOccurence(tableauTirage);
