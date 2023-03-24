@@ -28,3 +28,26 @@ aléatoires parmi un ensemble de symboles pré -établi.
    a. Effectuer un tirage avec la fonction tirage.
    b. En utilisant la fonction count, si un symbole intervient 3 fois, ajouter 5 crédits à
    l’utilisateur et si un symbole intervient 2 fois, ajouter 2 crédits
+
+# Intallation
+
+1. Cloner le repository
+2. compiler le programme : `javac Main.java`
+3. lacer le programme : `java Main`
+
+# Ce programme a été créé avec les versions de java suivantes
+
+```sh
+javac --version
+
+javac 19.0.2
+```
+
+```sh
+java --version
+
+java 19.0.2 2023-01-17
+Java(TM) SE Runtime Environment (build 19.0.2+7-44)
+Java HotSpot(TM) 64-Bit Server VM (build 19.0.2+7-44, mixed mode, sharing)
+
+```
